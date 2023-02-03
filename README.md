@@ -2,7 +2,7 @@
 
 #Eligibility Prediction for Loan
 
-#rocessed EDA
-#randomforestclassifier
-#GradientBoostingClassifier
-#decisiontreeclasifier
+#processed EDA ,,
+#randomforestclassifier,,
+#GradientBoostingClassifier,,
+#decisiontreeclasifier,,
